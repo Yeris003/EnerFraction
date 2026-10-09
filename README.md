@@ -112,15 +112,6 @@ These are critical considerations for a responsible renewable-energy financing m
 
 These are design goals to investigate—not promised benefits, investment returns, liquidity or proof that tokenization alone will increase access to finance.
 
-## Principles we want to get right
-
-**Rights before tokens.** Start with the project structure and the rights documented for participants.
-
-**Verification beyond the blockchain.** Clearly distinguish on-chain transaction records from off-chain facts about assets, permits, construction and performance.
-
-**Transparency by design.** Make it understandable what a digital unit represents, which information supports it, and what risks or restrictions apply.
-
-**Responsible participation.** Any future implementation would require qualified legal and financial advice, appropriate disclosures, investor protections and compliance with applicable laws.
 
 ## Contribution to the energy transition
 
