@@ -66,7 +66,7 @@ Renewable energy infrastructure has characteristics that make it relevant for re
 - **Transparent records:** Blockchain can offer a shared transaction ledger for asset-linked digital records, improving traceability and accountability.
 - **Growing institutional interest:** Asset managers, financiers, and infrastructure stakeholders are increasingly exploring digital infrastructure for asset issuance, reporting, and settlement processes.
 
-## How EnerFraction would work
+## How EnerFraction works
 
 A robust renewable-energy tokenization model usually depends on several connected layers:
 
