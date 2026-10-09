@@ -142,15 +142,6 @@ Documentary support for the project's core claims: the renewable energy financin
 - Legal risks: Higgins (Mintz) in Greentech Media.
 - Contractual framework: tokenization is a significant opportunity for financing energy projects, but it requires detailed regulatory guidelines.
 
-## Main References
-
-- IEA (2024). *Reducing the Cost of Capital: Strategies to unlock clean energy investment in emerging and developing economies*. https://www.iea.org/reports/reducing-the-cost-of-capital
-- IEA (2024). *Bringing down the cost of capital is key to unlocking clean energy growth in emerging economies*. https://www.iea.org/news/bringing-down-the-cost-of-capital-is-key-to-unlocking-clean-energy-growth-in-emerging-economies
-- IEA, World Bank and WEF (2021). *Financing Clean Energy Transitions in Emerging and Developing Economies*.
-- Gan, R. and Li, R. (2026). *When Power Purchase Agreements Go Digital: The Role of Tokenization in Renewable Energy Markets*. SSRN. https://papers.ssrn.com/ab_id=6031515
-- Higgins, M. (Mintz) / Greentech Media. *Tokenizing Renewable Energy Projects on the Blockchain*. https://www.greentechmedia.com/squared/read/tokenizing-renewable-energy-projects-on-the-blockchain
-- RWA.xyz and DeFiLlama (market data, accessed 2026).
-
 ## Contribution to the energy transition
 
 EnerFraction's ambition connects to the United Nations Sustainable Development Goals:
@@ -159,6 +150,16 @@ EnerFraction's ambition connects to the United Nations Sustainable Development G
 - **SDG 9 — Industry, Innovation and Infrastructure:** Investigate responsible digital innovation for essential infrastructure.
 
 These goals describe the project's intended alignment, not a measured impact claim.
+
+## Main References
+
+- IEA (2024). *Reducing the Cost of Capital: Strategies to unlock clean energy investment in emerging and developing economies*. https://www.iea.org/reports/reducing-the-cost-of-capital
+- IEA (2024). *Bringing down the cost of capital is key to unlocking clean energy growth in emerging economies*. https://www.iea.org/news/bringing-down-the-cost-of-capital-is-key-to-unlocking-clean-energy-growth-in-emerging-economies
+- IEA, World Bank and WEF (2021). *Financing Clean Energy Transitions in Emerging and Developing Economies*.
+- Gan, R. and Li, R. (2026). *When Power Purchase Agreements Go Digital: The Role of Tokenization in Renewable Energy Markets*. SSRN. https://papers.ssrn.com/ab_id=6031515
+- Higgins, M. (Mintz) / Greentech Media. *Tokenizing Renewable Energy Projects on the Blockchain*. https://www.greentechmedia.com/squared/read/tokenizing-renewable-energy-projects-on-the-blockchain
+
+
 
 ## Project status
 
