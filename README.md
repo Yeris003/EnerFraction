@@ -1,31 +1,30 @@
-<p align="center">
-  <img src="web/public/enerfraction-logo.jpeg" alt="EnerFraction — renewable energy, reimagined" width="680" />
-</p>
+﻿# EnerFraction
 
-<h1 align="center">EnerFraction</h1>
+<p align="center">
+  <img src="./web/public/enerfraction-logo.jpeg" alt="EnerFraction logo" width="680" />
+</p>
 
 <p align="center">
   <strong>Connecting renewable-energy infrastructure with more accessible digital participation.</strong>
 </p>
 
 <p align="center">
-  <a href="https://yeris003.github.io/EnerFraction/">Explore the project website ↗</a>
-  &nbsp;·&nbsp;
   Santander X Challenge | University Challenge 2026
 </p>
 
 ---
 
-> **The idea:** Explore how clearly defined rights linked to renewable-energy projects could be represented digitally, creating new ways to organize participation in the infrastructure powering the energy transition.
+## Project description
 
-## The project, at a glance
+EnerFraction is a digital platform that tokenizes, digitizes, and structures renewable energy assets such as solar parks, wind farms, and battery energy storage systems (BESS). The platform connects renewable energy projects with investors by creating digital representations of economic and contractual rights through smart contracts that help automate fundraising, purchase execution, and profit distribution. This enables capital to flow toward sustainable energy projects while improving transparency, liquidity, and operational efficiency.
 
-| | |
-|:--|:--|
-| **Focus** | Renewable energy: solar, wind and battery energy storage (BESS) |
-| **Opportunity** | Make project-linked participation more flexible and understandable |
-| **Approach** | Connect real-world project information, documented rights and digital records |
-| **Stage** | Early-stage concept with a landing-page prototype |
+The model is designed to align financing with SDG 7 and SDG 9 by supporting the deployment of clean-energy infrastructure and creating more accessible pathways for investor participation in the energy transition.
+
+## Problem statement
+
+The energy transition requires large-scale deployment of clean-energy infrastructure, including solar and wind projects that generate low-carbon electricity. However, project owners and asset managers often face barriers to accessing the capital needed to develop and operate these assets. At the same time, investors have limited access to clear, transparent, and flexible ways to participate in renewable infrastructure financing.
+
+Long-term contracts and complex financing frameworks can restrict capital participation and reduce diversification of funding sources. Blockchain technology can help create transparent asset records and fractional investment structures, improving access to capital and broadening investor inclusion.
 
 ## The challenge
 
@@ -87,7 +86,7 @@ These goals describe the project's intended alignment, not a measured impact cla
 
 ## Project status
 
-EnerFraction is an **early-stage concept**. This repository contains an introductory README and a React/Vite landing-page prototype. It is **not** a live investment platform and does not issue tokens, onboard investors, process payments, verify energy assets or distribute project profits.
+EnerFraction is an **early-stage concept**. This repository contains an introductory README and a landing-page prototype. It is **not** a live investment platform and does not issue tokens, onboard investors, process payments, verify energy assets or distribute project profits.
 
 Capabilities described here are ideas for exploration, not operating features or investment opportunities. A token does not automatically provide ownership, income, liquidity or investor protection.
 
