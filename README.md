@@ -89,17 +89,3 @@ These goals describe the project's intended alignment, not a measured impact cla
 EnerFraction is an **early-stage concept**. This repository contains an introductory README and a landing-page prototype. It is **not** a live investment platform and does not issue tokens, onboard investors, process payments, verify energy assets or distribute project profits.
 
 Capabilities described here are ideas for exploration, not operating features or investment opportunities. A token does not automatically provide ownership, income, liquidity or investor protection.
-
-## Explore the prototype
-
-```bash
-cd web
-npm install
-npm run dev
-```
-
-Create a production build with `npm run build`.
-
-## Important notice
-
-This project is for informational and development purposes only. Nothing in this repository is financial, investment, tax or legal advice, or an offer or solicitation to buy or sell a security, token or other financial product. Any future implementation would require project-specific due diligence, legal documentation, risk disclosures and regulatory review.
