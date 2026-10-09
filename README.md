@@ -56,6 +56,53 @@ flowchart LR
 
 Blockchain can provide a traceable record of digital transactions; it cannot, by itself, confirm that a power plant exists, verify its performance, establish rights to a physical asset or satisfy legal requirements. Those connections depend on reliable evidence, project documentation and the rules that apply to each offering and jurisdiction.
 
+## Why renewable energy is suitable for RWA tokenization
+
+Renewable energy infrastructure has characteristics that make it relevant for real-world asset (RWA) tokenization:
+
+- **Large capital requirements:** Developing solar parks, wind farms, and storage projects often requires substantial upfront financing.
+- **Long-term cash flows:** Renewable assets commonly operate under long-term revenue arrangements, including power purchase agreements and asset-linked contracts.
+- **Fractional participation:** Traditional infrastructure investments can require large minimum commitments. A tokenized structure may allow smaller, more accessible participation units when legally and structurally appropriate.
+- **Transparent records:** Blockchain can offer a shared transaction ledger for asset-linked digital records, improving traceability and accountability.
+- **Growing institutional interest:** Asset managers, financiers, and infrastructure stakeholders are increasingly exploring digital infrastructure for asset issuance, reporting, and settlement processes.
+
+## How EnerFraction would work
+
+A robust renewable-energy tokenization model usually depends on several connected layers:
+
+1. **Asset identification and due diligence** — confirm the project, ownership structure, permits, technology, capacity, and financial profile.
+2. **Legal and financial structuring** — define what the digital representation means and how it relates to investor rights, project revenues, and legal documentation.
+3. **Token design** — determine the digital unit's purpose, rules, constraints, and compliance requirements.
+4. **Compliance and investor onboarding** — apply KYC, AML, eligibility checks, sanctions screening, and wallet approval rules.
+5. **Issuance and digital records** — create a traceable digital representation linked to the underlying project rights and approved wallets.
+6. **Asset and investor management** — maintain ongoing ownership records, reporting, distributions, and operational updates.
+7. **Secondary market infrastructure** — where allowed by law and structure, support controlled transfer and settlement flows.
+
+## Core infrastructure we are exploring
+
+EnerFraction is designed around a concept that brings together several layers of infrastructure:
+
+- **Asset management layer:** project documentation, capacity, valuation, operational data, and asset records.
+- **Legal structure layer:** the legal entity or special purpose vehicle that defines rights and responsibilities.
+- **Tokenization engine:** issuance, transfer logic, supply control, and ownership records.
+- **Compliance layer:** onboarding, eligibility checks, restrictions, monitoring, and auditable controls.
+- **Custody and wallet layer:** secure wallet access and transaction authorization models.
+- **Data and oracle layer:** verified project and performance data to connect the physical asset to the digital record.
+- **Investor dashboard:** holdings, project information, transaction history, and reporting views.
+
+## Challenges and constraints
+
+Although tokenization can offer a more digital and transparent model, several challenges remain:
+
+- **Legal ownership vs. digital representation:** a token does not automatically create legal ownership of a physical asset.
+- **Asset verification:** blockchain records do not replace due diligence, documentation, audits, or performance verification.
+- **Regulatory fragmentation:** rules vary by jurisdiction and asset type.
+- **Liquidity constraints:** tokenization does not guarantee a liquid market or immediate tradability.
+- **Data reliability:** project data must come from trustworthy, auditable sources.
+- **Cybersecurity:** wallets, smart contracts, APIs, and custody systems require careful controls.
+
+These are critical considerations for a responsible renewable-energy financing model.
+
 ## Why explore this?
 
 - **More flexible participation:** Digital representations could support smaller, clearly defined units of participation, where permitted.
