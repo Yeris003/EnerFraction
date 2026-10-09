@@ -10,5 +10,3 @@ Desarrolladores de proyectos energéticos y personas interesadas en participar e
 ## Impacto esperado
 Movilizar recursos hacia infraestructura de energía limpia y contribuir a los ODS 7 y 9.
 
-## Estado
-Proyecto en fase de idea y definición del primer prototipo
