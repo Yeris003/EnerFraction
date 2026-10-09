@@ -12,6 +12,10 @@
   Developed for the Santander X Challenge | University Challenge 2026.
 </p>
 
+<p align="center">
+  <a href="https://yeris003.github.io/EnerFraction/">View the EnerFraction website</a>
+</p>
+
 ## About the project
 
 EnerFraction explores how renewable-energy projects—such as solar and wind farms and battery energy storage systems (BESS)—could be connected with a broader range of potential participants through real-world asset (RWA) tokenization.
