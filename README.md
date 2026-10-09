@@ -113,6 +113,44 @@ These are critical considerations for a responsible renewable-energy financing m
 These are design goals to investigate—not promised benefits, investment returns, liquidity or proof that tokenization alone will increase access to finance.
 
 
+# Bibliographic Evidence · EnerFraction
+
+Documentary support for the project's core claims: the renewable energy financing gap, the barriers posed by long-term contracts, and the viability of real-world asset (RWA) tokenization.
+
+## 1. Difficulty accessing capital
+
+- The cost of capital for utility-scale solar PV in emerging market and developing economies (EMDEs) is more than double that of advanced economies (IEA, 2024).
+- Investment in EMDEs (excluding China) must grow more than sixfold by the early 2030s to limit warming to 1.5 °C (IEA, 2024).
+- Narrowing the cost-of-capital gap by 1% could save roughly USD 150 billion per year (IEA, 2024).
+- In 2024, global energy investment exceeded USD 3 trillion, but only 25% went to EMDEs excluding China. The cost of capital for batteries (BESS) is comparable to that of solar (Cost of Capital Observatory).
+- Main risk factors: regulatory, political, and bankability concerns.
+
+## 2. Long-term contracts and complex financial structures
+
+- Gan and Li (2026), the first study on PPA tokenization, identify limited accessibility, long durations, lack of transferability, and financing difficulties as drawbacks of traditional PPAs.
+- IEA, World Bank and WEF (2021): global capital is not scarce; what is lacking are clean energy investment opportunities with adequate returns relative to risk. The problem is one of access structure.
+
+## 3. RWA tokenization as a real trend
+
+- Tokenized RWAs on public blockchains grew about 66% in 2026, reaching ~USD 23.6 billion (DeFiLlama).
+- BlackRock, Franklin Templeton, Apollo, Hamilton Lane, and WisdomTree already operate tokenized products.
+- Standard Chartered projected a market of up to USD 30 trillion by 2034.
+
+## 4. Fractionalization, liquidity, and transparency
+
+- Arguments about fractionalization applied to energy come mostly from industry platforms (Stobox, Aurora, Solulab, Brickken); they serve as market examples, not as academic evidence.
+- Legal risks: Higgins (Mintz) in Greentech Media.
+- Contractual framework: tokenization is a significant opportunity for financing energy projects, but it requires detailed regulatory guidelines.
+
+## Main References
+
+- IEA (2024). *Reducing the Cost of Capital: Strategies to unlock clean energy investment in emerging and developing economies*. https://www.iea.org/reports/reducing-the-cost-of-capital
+- IEA (2024). *Bringing down the cost of capital is key to unlocking clean energy growth in emerging economies*. https://www.iea.org/news/bringing-down-the-cost-of-capital-is-key-to-unlocking-clean-energy-growth-in-emerging-economies
+- IEA, World Bank and WEF (2021). *Financing Clean Energy Transitions in Emerging and Developing Economies*.
+- Gan, R. and Li, R. (2026). *When Power Purchase Agreements Go Digital: The Role of Tokenization in Renewable Energy Markets*. SSRN. https://papers.ssrn.com/ab_id=6031515
+- Higgins, M. (Mintz) / Greentech Media. *Tokenizing Renewable Energy Projects on the Blockchain*. https://www.greentechmedia.com/squared/read/tokenizing-renewable-energy-projects-on-the-blockchain
+- RWA.xyz and DeFiLlama (market data, accessed 2026).
+
 ## Contribution to the energy transition
 
 EnerFraction's ambition connects to the United Nations Sustainable Development Goals:
